@@ -1,0 +1,23 @@
+{
+  "name": "@fichtelmannmar/electron-http",
+  "version": "0.0.1",
+  "description": "Utitlity library for electron net API",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MareikeTaeubner/electron-http.git"
+  },
+  "author": "Mareike Fichtelmann",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MareikeTaeubner/electron-http/issues"
+  },
+  "homepage": "https://github.com/MareikeTaeubner/electron-http#readme",
+  "dependencies": {
+    "typescript": "^4.4.4"
+  }
+}
